@@ -7,6 +7,7 @@ I know it is not useful as we think, better scripts are already present but if y
 #Usage
 Its very simple just download the file script file and navigate to your downloaded folder where to place your downloaded file and just run `./File_Permission_Checker`
 
+![](images/usage.png)
 
 
 file checker already have some of the most common files if /etc/passwd if you like to modify or add new files you can directly add into the script
@@ -18,14 +19,20 @@ file checker already have some of the most common files if /etc/passwd if you li
 - /etc/gshadow
 - /etc/sudoers
 
+![](images/inbuilt_file.png)
+
+
 ## Cases you may encounter
 1. Invalid case: First case when your script asking if you wanna to check permission on new file in form of Y or N 
 
-image invalid
+![](images/invalid_case.png)
 
-image yes
 
-image no
+If you supply **Y** then just give the file name with full path as shown 
+![](images/Yes_option.png)
+
+And if you didn't want to go futher then just quit but **N** 
+![](images/No_option.png)
 
 
 
