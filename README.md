@@ -4,7 +4,7 @@ During enumeration whenever we need to find out the permission on specific file 
 whenever pentester enumerating the machine they always looking for the file with special permission or writable files so that they manipulate the code which ultimately helps them to get shell sometimes or reduce the steps to get to it.
 I know it is not useful as we think, better scripts are already present but if you find anything useful it is appreciative.
 
-#Usage
+# Usage
 Its very simple just download the file script file and navigate to your downloaded folder where to place your downloaded file and just run `./File_Permission_Checker`
 
 ![](images/usage.png)
