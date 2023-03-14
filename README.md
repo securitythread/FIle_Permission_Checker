@@ -1,4 +1,4 @@
-# FIle_Permission_Checker
+# File_Permission_Checker
 During enumeration whenever we need to find out the permission on specific file apart from most common file on machine for credential hijacking.
 
 whenever pentester enumerating the machine they always looking for the file with special permission or writable files so that they manipulate the code which ultimately helps them to get shell sometimes or reduce the steps to get to it.
